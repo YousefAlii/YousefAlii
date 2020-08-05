@@ -1,5 +1,5 @@
 ### Hi,I'm Youssef 👋
-I'm a fresh computer science graduate who is passionate learning new technologies 
+I'm a fresh computer science graduate who is passionate about learning new technologies 
 And train to get a chance in the field.
 
 Here are some ideas to get you started:
